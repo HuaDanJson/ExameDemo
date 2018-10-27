@@ -1,0 +1,1663 @@
+[
+    {
+        "outputFile": "/Users/jason/Downloads/StudeoProject/KSXT1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2408,
+                        "endLine": 60,
+                        "endColumn": 19,
+                        "endOffset": 2577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 5073,
+                        "endLine": 149,
+                        "endColumn": 19,
+                        "endOffset": 6104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endLine": 47,
+                    "endColumn": 19,
+                    "endOffset": 1578
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4755,
+                        "endLine": 116,
+                        "endColumn": 19,
+                        "endOffset": 5068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1583,
+                    "endLine": 54,
+                    "endColumn": 19,
+                    "endOffset": 1950
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2756,
+                        "endLine": 72,
+                        "endColumn": 19,
+                        "endOffset": 3123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1955,
+                    "endLine": 62,
+                    "endColumn": 19,
+                    "endOffset": 2435
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3128,
+                        "endLine": 80,
+                        "endColumn": 19,
+                        "endOffset": 3608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2440,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 2822
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3688,
+                        "endLine": 93,
+                        "endColumn": 19,
+                        "endOffset": 4070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2956,
+                    "endColumn": 57,
+                    "endOffset": 3009
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3014,
+                    "endColumn": 55,
+                    "endOffset": 3065
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3070,
+                    "endColumn": 44,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 44,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3115,
+                    "endColumn": 44,
+                    "endOffset": 3155
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 44,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3160,
+                    "endColumn": 43,
+                    "endOffset": 3199
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 43,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3204,
+                    "endColumn": 62,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 528,
+                        "endColumn": 59,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3267,
+                    "endColumn": 60,
+                    "endOffset": 3323
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 60,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3328,
+                    "endColumn": 61,
+                    "endOffset": 3385
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 61,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3390,
+                    "endColumn": 59,
+                    "endOffset": 3445
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 59,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3450,
+                    "endColumn": 52,
+                    "endOffset": 3498
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 52,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3503,
+                    "endColumn": 48,
+                    "endOffset": 3547
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 48,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3552,
+                    "endColumn": 49,
+                    "endOffset": 3597
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1244,
+                        "endColumn": 49,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3602,
+                    "endColumn": 37,
+                    "endOffset": 3635
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 37,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3640,
+                    "endColumn": 57,
+                    "endOffset": 3693
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 57,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3698,
+                    "endColumn": 53,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 53,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endColumn": 47,
+                    "endOffset": 3795
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 47,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3800,
+                    "endColumn": 51,
+                    "endOffset": 3847
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1146,
+                        "endColumn": 51,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3852,
+                    "endColumn": 45,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1604,
+                        "endColumn": 45,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endColumn": 54,
+                    "endOffset": 3948
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 54,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3953,
+                    "endColumn": 47,
+                    "endOffset": 3996
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1907,
+                        "endColumn": 47,
+                        "endOffset": 1950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4001,
+                    "endColumn": 43,
+                    "endOffset": 4040
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1998,
+                        "endColumn": 43,
+                        "endOffset": 2037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4045,
+                    "endColumn": 47,
+                    "endOffset": 4088
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2132,
+                        "endColumn": 47,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4093,
+                    "endColumn": 53,
+                    "endOffset": 4142
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endColumn": 53,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4147,
+                    "endColumn": 42,
+                    "endOffset": 4185
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2270,
+                        "endColumn": 42,
+                        "endOffset": 2308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4190,
+                    "endColumn": 39,
+                    "endOffset": 4225
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endColumn": 39,
+                        "endOffset": 2215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4230,
+                    "endColumn": 44,
+                    "endOffset": 4270
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2042,
+                        "endColumn": 44,
+                        "endOffset": 2082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4275,
+                    "endColumn": 48,
+                    "endOffset": 4319
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 48,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4324,
+                    "endColumn": 49,
+                    "endOffset": 4369
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2220,
+                        "endColumn": 49,
+                        "endOffset": 2265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4374,
+                    "endColumn": 51,
+                    "endOffset": 4421
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1855,
+                        "endColumn": 51,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4426,
+                    "endColumn": 49,
+                    "endOffset": 4471
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 49,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4476,
+                    "endColumn": 51,
+                    "endOffset": 4523
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1700,
+                        "endColumn": 51,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4528,
+                    "endColumn": 42,
+                    "endOffset": 4566
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1955,
+                        "endColumn": 42,
+                        "endOffset": 1993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4571,
+                    "endColumn": 44,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2087,
+                        "endColumn": 44,
+                        "endOffset": 2127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 48,
+                    "endOffset": 4660
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1525,
+                        "endColumn": 48,
+                        "endOffset": 1569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4665,
+                    "endColumn": 53,
+                    "endOffset": 4714
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3614,
+                        "endColumn": 53,
+                        "endOffset": 3663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4719,
+                    "endColumn": 33,
+                    "endOffset": 4748
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 33,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4753,
+                    "endColumn": 58,
+                    "endOffset": 4807
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 58,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4812,
+                    "endColumn": 117,
+                    "endOffset": 4925
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 6244,
+                        "endColumn": 117,
+                        "endOffset": 6357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4930,
+                    "endColumn": 43,
+                    "endOffset": 4969
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 43,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4974,
+                    "endColumn": 42,
+                    "endOffset": 5012
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1482,
+                        "endColumn": 42,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5017,
+                    "endColumn": 42,
+                    "endOffset": 5055
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 42,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5060,
+                    "endColumn": 45,
+                    "endOffset": 5101
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 45,
+                        "endOffset": 1239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5106,
+                    "endColumn": 48,
+                    "endOffset": 5150
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 48,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5155,
+                    "endColumn": 51,
+                    "endOffset": 5202
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 51,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5207,
+                    "endColumn": 52,
+                    "endOffset": 5255
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 52,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5260,
+                    "endColumn": 60,
+                    "endOffset": 5316
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 6183,
+                        "endColumn": 60,
+                        "endOffset": 6239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5321,
+                    "endColumn": 46,
+                    "endOffset": 5363
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 6136,
+                        "endColumn": 46,
+                        "endOffset": 6178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5368,
+                    "endColumn": 43,
+                    "endOffset": 5407
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 43,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5412,
+                    "endColumn": 48,
+                    "endOffset": 5456
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2648,
+                        "endColumn": 48,
+                        "endOffset": 2692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5461,
+                    "endColumn": 49,
+                    "endOffset": 5506
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2598,
+                        "endColumn": 49,
+                        "endOffset": 2643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5511,
+                    "endColumn": 57,
+                    "endOffset": 5564
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2697,
+                        "endColumn": 57,
+                        "endOffset": 2750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5569,
+                    "endColumn": 42,
+                    "endOffset": 5607
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 50,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5612,
+                    "endColumn": 46,
+                    "endOffset": 5654
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 46,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5659,
+                    "endColumn": 31,
+                    "endOffset": 5686
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 39,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5691,
+                    "endColumn": 51,
+                    "endOffset": 5738
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1343,
+                        "endColumn": 51,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5743,
+                    "endColumn": 48,
+                    "endOffset": 5787
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 48,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5792,
+                    "endColumn": 55,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 6362,
+                        "endColumn": 55,
+                        "endOffset": 6413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endColumn": 44,
+                    "endOffset": 5888
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 52,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5893,
+                    "endColumn": 48,
+                    "endOffset": 5937
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4585,
+                        "endColumn": 48,
+                        "endOffset": 4629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5942,
+                    "endColumn": 50,
+                    "endOffset": 5988
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4336,
+                        "endColumn": 50,
+                        "endOffset": 4382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5993,
+                    "endColumn": 50,
+                    "endOffset": 6039
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4285,
+                        "endColumn": 50,
+                        "endOffset": 4331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6044,
+                    "endColumn": 53,
+                    "endOffset": 6093
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4438,
+                        "endColumn": 53,
+                        "endOffset": 4487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6098,
+                    "endColumn": 48,
+                    "endOffset": 6142
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4536,
+                        "endColumn": 48,
+                        "endOffset": 4580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6147,
+                    "endColumn": 53,
+                    "endOffset": 6196
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4634,
+                        "endColumn": 53,
+                        "endOffset": 4683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6201,
+                    "endColumn": 56,
+                    "endOffset": 6253
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 4133,
+                        "endColumn": 56,
+                        "endOffset": 4185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6258,
+                    "endColumn": 56,
+                    "endOffset": 6310
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4076,
+                        "endColumn": 56,
+                        "endOffset": 4128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6315,
+                    "endColumn": 47,
+                    "endOffset": 6358
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4237,
+                        "endColumn": 47,
+                        "endOffset": 4280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6363,
+                    "endColumn": 46,
+                    "endOffset": 6405
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 4190,
+                        "endColumn": 46,
+                        "endOffset": 4232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6410,
+                    "endColumn": 43,
+                    "endOffset": 6449
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4492,
+                        "endColumn": 43,
+                        "endOffset": 4531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6454,
+                    "endColumn": 50,
+                    "endOffset": 6500
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4387,
+                        "endColumn": 50,
+                        "endOffset": 4433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6505,
+                    "endColumn": 48,
+                    "endOffset": 6549
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4688,
+                        "endColumn": 48,
+                        "endOffset": 4732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6554,
+                    "endColumn": 48,
+                    "endOffset": 6598
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 48,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6603,
+                    "endColumn": 51,
+                    "endOffset": 6650
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 51,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6655,
+                    "endColumn": 68,
+                    "endOffset": 6719
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 68,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6724,
+                    "endColumn": 51,
+                    "endOffset": 6771
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2334,
+                        "endColumn": 51,
+                        "endOffset": 2381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6776,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 7062
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7067,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 7222
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7227,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 7391
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/page__styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7396,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 7430
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/page__styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7435,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 7620
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/values/page__styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1063
+                    }
+                }
+            }
+        ]
+    }
+]

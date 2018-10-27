@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/KSXT1/app/build/intermediates/res/merged/debug/drawable/tab_group_exam.xml",
+        "source": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/drawable/tab_group_exam.xml"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/KSXT1/app/build/intermediates/res/merged/debug/drawable/tab_group_more.xml",
+        "source": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/drawable/tab_group_more.xml"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/KSXT1/app/build/intermediates/res/merged/debug/drawable/tab_group_classics.xml",
+        "source": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/drawable/tab_group_classics.xml"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/KSXT1/app/build/intermediates/res/merged/debug/drawable/record_style_red.xml",
+        "source": "/Users/jason/Downloads/StudeoProject/KSXT1/app/src/main/res/drawable/record_style_red.xml"
+    }
+]
